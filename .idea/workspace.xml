@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06dd3104-2970-4f5f-8989-9fc860344a30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
     </list>
@@ -29,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/database/migrations/2018_01_06_175457_create_categories_table.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="517">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#7#45#0#PHP" expanded="true" />
               </folding>
@@ -53,8 +56,11 @@
         <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding />
+              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <marker date="1515241813443" expanded="true" signature="323:512" ph="..." />
+                <marker date="1515241813443" expanded="true" signature="523:617" ph=" Register any authentication / authorization services. ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,7 +100,7 @@
       <file leaf-file-name="UsersController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UsersController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
+            <state relative-caret-position="578">
               <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
@@ -176,8 +182,8 @@
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1524" />
-    <option name="y" value="105" />
+    <option name="x" value="1622" />
+    <option name="y" value="188" />
     <option name="width" value="1609" />
     <option name="height" value="820" />
   </component>
@@ -329,15 +335,15 @@
       <workItem from="1514346172009" duration="13235000" />
       <workItem from="1514993460407" duration="2006000" />
       <workItem from="1515071056123" duration="6000000" />
-      <workItem from="1515208394624" duration="8688000" />
+      <workItem from="1515208394624" duration="9050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29929000" />
+    <option name="totallyTimeSpent" value="30291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1524" y="105" width="1609" height="820" extended-state="0" />
+    <frame x="1622" y="188" width="1609" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20944686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -384,7 +390,7 @@
         <state relative-caret-position="435">
           <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
           <folding>
-            <element signature="e#33#72#0#PHP" expanded="true" />
+            <element signature="e#33#72#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -698,7 +704,7 @@
         <state relative-caret-position="778">
           <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
-            <element signature="e#33#72#0#PHP" expanded="true" />
+            <element signature="e#33#72#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -748,14 +754,17 @@
     <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding />
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <marker date="1515241813443" expanded="true" signature="323:512" ph="..." />
+            <marker date="1515241813443" expanded="true" signature="523:617" ph=" Register any authentication / authorization services. ..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UsersController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
+        <state relative-caret-position="578">
           <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
@@ -774,7 +783,7 @@
     <entry file="file://$PROJECT_DIR$/database/migrations/2018_01_06_175457_create_categories_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="e#7#45#0#PHP" expanded="true" />
           </folding>
