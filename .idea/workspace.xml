@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06dd3104-2970-4f5f-8989-9fc860344a30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="06dd3104-2970-4f5f-8989-9fc860344a30" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,8 +194,8 @@
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1491" />
-    <option name="y" value="65" />
+    <option name="x" value="1838" />
+    <option name="y" value="196" />
     <option name="width" value="1440" />
     <option name="height" value="805" />
   </component>
@@ -407,15 +404,15 @@
       <workItem from="1515071056123" duration="6000000" />
       <workItem from="1515208394624" duration="11934000" />
       <workItem from="1515295648685" duration="8999000" />
-      <workItem from="1515595666811" duration="540000" />
+      <workItem from="1515595666811" duration="635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51704000" />
+    <option name="totallyTimeSpent" value="51799000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1491" y="65" width="1440" height="805" extended-state="0" />
+    <frame x="1838" y="196" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17222223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
