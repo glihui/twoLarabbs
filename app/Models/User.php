@@ -82,7 +82,7 @@ class User extends Authenticatable
         if ( ! starts_with($path, 'http')) {
 
             // 拼接完整的 URL
-            $path = "/uploads/images/avatars/$path";
+            $path = config('app.url') . "/uploads/images/avatars/$path";
         }
 
         $this->attributes['avatar'] = $path;
