@@ -12,7 +12,7 @@
 
             <!-- Branding Image -->
             <a class="navbar-brand" href="{{ url('/') }}">
-                深漂BBS
+                深漂圈
             </a>
         </div>
 

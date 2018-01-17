@@ -8,9 +8,9 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>@yield('title', 'BBS')</title>
-    <meta name="description" content="@yield('description', setting('seo_description', 'BBS 爱好者社区。'))" />
-    <meta name="keyword" content="@yield('keyword', setting('seo_keyword', 'BBS,社区,论坛'))" />
+    <title>@yield('title', '深漂圈')</title>
+    <meta name="description" content="@yield('description', setting('seo_description', 'BBS 爱好者社区 深漂圈。'))" />
+    <meta name="keyword" content="@yield('keyword', setting('seo_keyword', 'BBS,深漂圈，社区,论坛'))" />
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
