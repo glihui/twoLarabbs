@@ -8056,6 +8056,17 @@ button.close {
   float: left !important;
 }
 
+.guolh-copyright-text {
+  display:none;
+}
+@media screen and (min-width: 768px) {
+  .guolh-copyright-text {
+    display: block;
+    float: left !important;
+    padding-left: 16px;
+  }
+}
+
 .hide {
   display: none !important;
 }
